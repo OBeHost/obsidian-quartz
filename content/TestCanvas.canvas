@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"72cf5fcc6538c05e","x":322,"y":-342,"width":400,"height":400,"type":"file","file":"Bildungspläne.md"},
+		{"id":"23714ce3afbf3f13","x":-494,"y":-374,"width":400,"height":400,"type":"file","file":"Bildungsplan Q2.md"}
+	],
+	"edges":[]
+}
